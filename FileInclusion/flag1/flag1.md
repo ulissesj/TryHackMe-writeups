@@ -1,6 +1,6 @@
 ## Capture Flag1 at /etc/flag1
 The first image shows a web page that has a form and a warn to change to POST request.
-![alt text]( "Challenge 1 - Web page")
+![alt text](https://github.com/ulissesj/TryHackMe-writeups/blob/main/FileInclusion/flag1/1_flag1.PNG "Challenge 1 - Web page")
 
 To perform a local file inclusion we need to change to a POST request, since the page is configured to GET request. In this case, I used "curl" to get the flag
 
