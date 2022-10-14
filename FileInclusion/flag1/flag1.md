@@ -10,4 +10,4 @@ $ curl -X POST -d 'file=/etc/flag1' http://MACHINE_IP/challenges/chall1.php
 The payload is getting argument '-d' to be content-type application/x-www-form-urlencoded.
 After that, the page is displayed at the terminal and we get the flag
 
-![alt text]( "Challenge 1 - Flag1")
+![alt text](https://github.com/ulissesj/TryHackMe-writeups/blob/main/FileInclusion/flag1/2_flag2.PNG "Challenge 1 - Flag1")
